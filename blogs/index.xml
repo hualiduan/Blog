@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Forty</title>
-    <link>https://hualiduan.github.io/Blog/blogs/</link>
-    <description>Recent content in Blogs on Forty</description>
+    <title>Lifestyle on Huali Duan</title>
+    <link>http://example.org/blogs/</link>
+    <description>Recent content in Lifestyle on Huali Duan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jun 2021 21:50:14 +0800</lastBuildDate><atom:link href="https://hualiduan.github.io/Blog/blogs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MyBlog</title>
-      <link>https://hualiduan.github.io/Blog/blogs/myblog/</link>
-      <pubDate>Mon, 21 Jun 2021 21:50:14 +0800</pubDate>
-      
-      <guid>https://hualiduan.github.io/Blog/blogs/myblog/</guid>
-      <description>20210621  The sun finally comes out after several rainy days！  </description>
-    </item>
-    
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="http://example.org/blogs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
