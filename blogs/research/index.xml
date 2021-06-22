@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scientific Research on Huali Duan</title>
-    <link>https://hualiduan.github.io/Blog/blogs/research/</link>
+    <link>http://example.org/blogs/research/</link>
     <description>Recent content in Scientific Research on Huali Duan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="https://hualiduan.github.io/Blog/blogs/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="http://example.org/blogs/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FTJ Memory</title>
-      <link>https://hualiduan.github.io/Blog/blogs/research/magna/</link>
+      <link>http://example.org/blogs/research/magna/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>https://hualiduan.github.io/Blog/blogs/research/magna/</guid>
+      <guid>http://example.org/blogs/research/magna/</guid>
       <description>This is what I have been done for months about FTJ memory, which is used for Non-volatile memories and Synaptic devices.</description>
     </item>
     
