@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Huali Duan</title>
-    <link>http://example.org/</link>
+    <link>https://hualiduan.github.io/Blog/</link>
     <description>Recent content on Huali Duan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="https://hualiduan.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/blogs/about/blogs/</link>
+      <link>https://hualiduan.github.io/Blog/blogs/about/blogs/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>http://example.org/blogs/about/blogs/</guid>
+      <guid>https://hualiduan.github.io/Blog/blogs/about/blogs/</guid>
       <description>Welcome to my Blog! This is where I write about my research, daily life and travel&amp;hellip;</description>
     </item>
     
     <item>
       <title>SanYa</title>
-      <link>http://example.org/blogs/travel/blogs/</link>
+      <link>https://hualiduan.github.io/Blog/blogs/travel/blogs/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>http://example.org/blogs/travel/blogs/</guid>
+      <guid>https://hualiduan.github.io/Blog/blogs/travel/blogs/</guid>
       <description>This is a graduation trip!</description>
     </item>
     
     <item>
       <title>FTJ Memory</title>
-      <link>http://example.org/blogs/research/blogs/</link>
+      <link>https://hualiduan.github.io/Blog/blogs/research/blogs/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>http://example.org/blogs/research/blogs/</guid>
+      <guid>https://hualiduan.github.io/Blog/blogs/research/blogs/</guid>
       <description>This is what I have done for months about FTJ memory, which is used for Non-volatile memories and Synaptic devices.</description>
     </item>
     
     <item>
       <title>Crane</title>
-      <link>http://example.org/blogs/daily/ipsum/</link>
+      <link>https://hualiduan.github.io/Blog/blogs/daily/ipsum/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>http://example.org/blogs/daily/ipsum/</guid>
+      <guid>https://hualiduan.github.io/Blog/blogs/daily/ipsum/</guid>
       <description>It rains for a long days, and I saw a white crane on my way to the study room!</description>
     </item>
     
