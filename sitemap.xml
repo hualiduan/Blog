@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hualiduan.github.io/Blog/blogs/about/</loc>
+    <loc>http://example.org/blogs/about/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/blogs/</loc>
+    <loc>http://example.org/blogs/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/blogs/daily/</loc>
+    <loc>http://example.org/blogs/daily/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/blogs/research/</loc>
+    <loc>http://example.org/blogs/research/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/blogs/travel/</loc>
+    <loc>http://example.org/blogs/travel/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/blogs/about/blogs/</loc>
+    <loc>http://example.org/blogs/about/blogs/</loc>
     <lastmod>2017-10-31T22:26:13-05:00</lastmod>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/blogs/travel/blogs/</loc>
+    <loc>http://example.org/blogs/travel/blogs/</loc>
     <lastmod>2017-10-31T22:26:13-05:00</lastmod>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/blogs/research/blogs/</loc>
+    <loc>http://example.org/blogs/research/blogs/</loc>
     <lastmod>2017-10-31T22:26:09-05:00</lastmod>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/blogs/daily/ipsum/</loc>
+    <loc>http://example.org/blogs/daily/ipsum/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>https://hualiduan.github.io/Blog/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>

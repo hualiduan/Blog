@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Huali Duan</title>
-    <link>https://hualiduan.github.io/Blog/blogs/travel/</link>
+    <link>http://example.org/blogs/travel/</link>
     <description>Recent content in Travel on Huali Duan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="https://hualiduan.github.io/Blog/blogs/travel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="http://example.org/blogs/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SanYa</title>
-      <link>https://hualiduan.github.io/Blog/blogs/travel/blogs/</link>
+      <link>http://example.org/blogs/travel/blogs/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>https://hualiduan.github.io/Blog/blogs/travel/blogs/</guid>
+      <guid>http://example.org/blogs/travel/blogs/</guid>
       <description>This is a graduation trip!</description>
     </item>
     
